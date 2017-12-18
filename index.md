@@ -2,7 +2,10 @@
 layout: default
 ---
 
-Thank you for visiting. Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to my research homepage. My research has been focused on emerging technologies, including _wearables_, _microfluidics_, _3D printing_, and _printed electronics_. Using these technologies, I have realized several applications with _in vitro diagnostics_, _wearable sensors_, and _point of care diagnostics_.
+
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
