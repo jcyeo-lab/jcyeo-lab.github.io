@@ -2,20 +2,22 @@
 layout: default
 ---
 
-Welcome to my research homepage. My research has been focused on emerging technologies, including _wearables_, _microfluidics_, _3D printing_, and _printed electronics_. Using these technologies, I have realized several applications with _in vitro diagnostics_, _wearable sensors_, and _point of care diagnostics_.
+Welcome to my homepage! 
+
+I would like to introduce you to my research focusing on _wearables_, _microfluidics_, _3D printing_, and _printed electronics_. Using these technologies, I have realized several applications with _in vitro diagnostics_, _wearable sensors_, and _point of care diagnostics_.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Link to another page](https://scholar.google.com.sg/citations?user=secQs2YAAAAJ&hl=en).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-1)Wearables
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The hype of wearables arise towards the turn of the century, and has not stopped since. However, current wearables are confined to the wrist wearables. Click here to find out the ongoing research!
 
 ## [](#header-2)Header 2
 
