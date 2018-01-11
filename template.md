@@ -1,3 +1,6 @@
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+
 ## [](#header-2)Header 2
 
 > This is a blockquote following a header.
