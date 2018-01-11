@@ -15,7 +15,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Wearables
+# [](#header-2)Wearables
 
 The hype of wearables arise towards the turn of the century, and has not stopped since. However, current wearables are confined to the wrist wearables. Click here to find out the ongoing research!
 
@@ -41,7 +41,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+```
 #### [](#header-4)Header 4
 
 *   This is an unordered list following a header.
